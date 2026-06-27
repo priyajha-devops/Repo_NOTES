@@ -1,3 +1,6 @@
+# Azure Migration Architecture
+![Azure Migration Diagram] (image/Migration.png)
+
 # Azure Migration
 
 ## Overview
